@@ -2,7 +2,7 @@
 //  BannerCell.swift
 //  SectionController
 //
-//  Created by bytedance on 2021/11/12.
+//  Created by whw on 2021/11/12.
 //
 
 import UIKit

@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SectionController
 //
-//  Created by bytedance on 2021/11/11.
+//  Created by whw on 2021/11/11.
 //
 
 import UIKit
